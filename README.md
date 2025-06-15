@@ -1,3 +1,36 @@
+# 🗳️ Election Awareness App
+
+An interactive web application built to spread awareness about the importance of voting and empower users with voter registration guidance. Developed using React and integrated with mapping services and educational resources.
+
+## 🚀 Features
+
+- 🧾 **Voter Registration Form** – Easy-to-fill form to simulate real-world voter registration.
+- 📍 **Map Integration** – Displays nearby polling stations or voter awareness centers.
+- 🔐 **Identity Proof Upload** – Secure upload (for simulation/demo purposes).
+- 🧠 **Educational Insights** – Offers statistics and tips to encourage voter participation.
+- ⚙️ **Responsive UI** – Designed to work across desktops and mobile devices.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, CSS
+- **Backend:** Node.js / Express (if extended)
+- **APIs & Libraries:** Leaflet, Google Maps API
+- **Version Control:** Git, GitHub
+
+## 💡 Purpose
+
+This project was developed as part of a social impact initiative to:
+- Promote responsible voting behavior.
+- Educate first-time voters.
+- Demonstrate the use of modern web technologies for civic engagement.
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/nisarganaik23/election-awareness-app.git
+cd election-awareness-app
+npm install
+npm start
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
